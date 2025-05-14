@@ -1,0 +1,20 @@
+{
+  "name": "curso-udemy",
+  "version": "1.0.0",
+  "description": "Minha primeira api",
+  "homepage": "https://github.com/Wellingtonalves33/Curso-udemy#readme",
+  "bugs": {
+    "url": "https://github.com/Wellingtonalves33/Curso-udemy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wellingtonalves33/Curso-udemy.git"
+  },
+  "license": "ISC",
+  "author": "Wellintinho",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
